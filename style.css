@@ -1,0 +1,32 @@
+.dev {
+    font-size: 40pt;
+    border-spacing: 0cap;
+}
+
+.rounded-circle {
+    height: 300px;
+    width: 300px;
+   
+}
+
+/* .img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;   
+}
+*/
+
+/* .img-container img {
+    max-width: 100%; 
+    height: auto;
+}
+*/
+
+/* .social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; 
+}
+ */ 
